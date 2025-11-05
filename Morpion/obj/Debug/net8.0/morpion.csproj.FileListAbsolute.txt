@@ -1,0 +1,4 @@
+U:\Espace privé\AT\morpion\morpion\obj\Debug\net8.0\morpion.GeneratedMSBuildEditorConfig.editorconfig
+U:\Espace privé\AT\morpion\morpion\obj\Debug\net8.0\morpion.AssemblyInfoInputs.cache
+U:\Espace privé\AT\morpion\morpion\obj\Debug\net8.0\morpion.AssemblyInfo.cs
+U:\Espace privé\AT\morpion\morpion\obj\Debug\net8.0\morpion.csproj.CoreCompileInputs.cache
